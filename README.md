@@ -23,4 +23,6 @@ case cx_hash("some string"): // compile time hashing
 ```
 
 #### Output:
+```
 some string hash found!
+```
